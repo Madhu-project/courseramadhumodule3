@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+#food {
+  font-size: xx-large;
+}
+li {
+  display: block;
+  width: 100%;
+  border: 1px solid snow;
+}
+.content-page {
+  background-color: blanchedalmond;
+}
+#ourmenu {
+  font-size: x-large;
+  font-weight: bolder;
+}
+.gotop {
+  color: darkblue;
+  text-decoration: none;
+}
+
+@media (min-width: 768px) {
+  #trial1 {
+    display: none;
+  }
+}
